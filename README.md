@@ -1,4 +1,4 @@
-TP N°2 : Commandabilité et Observabilité d'un Bras Manipulateur 
+TP N°2 : Commandabilité et Observabilité d'un Bras Manipulateur 2-DOF
 
 Université des Sciences et de la Technologie Houari Boumediene (USTHB) Faculté d'Électronique et d'Informatique Département : Automatique
 

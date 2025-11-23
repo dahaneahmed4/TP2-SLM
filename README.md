@@ -1,4 +1,4 @@
-TP N°2 : Commandabilité et Observabilité d'un Bras Manipulateur 2-DOF
+TP N°2 : Commandabilité et Observabilité d'un Bras Manipulateur 
 
 Université des Sciences et de la Technologie Houari Boumediene (USTHB) Faculté d'Électronique et d'Informatique Département : Automatique
 
@@ -7,6 +7,8 @@ Niveau : Master 1 - Automatique et Informatique Industrielle (AII)
 Module : Systèmes Linéaires Multivariables (SLM)
 
 Année Universitaire : 2025/2026
+
+BINOM: DAHANE AHMED LAMINE & RAMZI MAMOU
 
 📋 Description du Projet
 

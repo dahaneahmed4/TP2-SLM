@@ -82,4 +82,4 @@ Ouvrez simplement index.html avec n'importe quel navigateur web moderne (Chrome,
 
 Auteur : DAHANE AHMED LAMINE & RAMZI MAMOU
 
-Encadrant : LYDIA
+Encadrant : LINDA HACHEMI
